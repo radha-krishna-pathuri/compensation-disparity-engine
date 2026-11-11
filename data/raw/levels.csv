@@ -1,0 +1,9 @@
+level_id,level_code,name,seniority_order
+LVL-01,L1,Junior,1
+LVL-02,L2,Associate,2
+LVL-03,L3,Mid,3
+LVL-04,L4,Senior,4
+LVL-05,L5,Staff,5
+LVL-06,L6,Principal,6
+LVL-07,L7,Director,7
+LVL-08,L8,VP,8

@@ -1,0 +1,11 @@
+role_id,title,job_family
+ROLE-001,Backend Engineer,ENGINEERING
+ROLE-002,Frontend Engineer,ENGINEERING
+ROLE-003,Data Scientist,ENGINEERING
+ROLE-004,Product Manager,PRODUCT
+ROLE-005,Product Designer,PRODUCT
+ROLE-006,Account Executive,GTM
+ROLE-007,Customer Success Mgr,GTM
+ROLE-008,Financial Analyst,G&A
+ROLE-009,HR Business Partner,G&A
+ROLE-010,DevOps Engineer,ENGINEERING
